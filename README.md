@@ -1,31 +1,31 @@
 # KostHub
 
-## Deskripsi
-KostHub merupakan sebuah sistem manajemen kamar kos modern berbasis web yang berfokus untuk menyediakan platform di mana pengelola dapat mengatur kamar, penghuni, transaksi sewa, dan perbaikan dengan mudah. Keberadaan aplikasi ini juga dilengkapi dengan Portal Penghuni, sehingga diharapkan mampu mempermudah penghuni kos untuk mengecek tagihan, melaporkan kerusakan fasilitas, hingga mengajukan pindah kamar secara mandiri.
+## Description
+KostHub is a modern web-based boarding house (kost) room management system focused on providing a platform where administrators can easily manage rooms, tenants, rental transactions, and repairs. This application is also equipped with a Tenant Portal, designed to make it easier for boarding house tenants to check bills, report facility damages, and independently submit room transfer requests.
 
-## Alamat
+## Address
 [http://localhost]
 
-## Menu Utama
+## Main Menu
 ```text
 - Admin
     - Dashboard
-    - Tipe Kamar (Master Data)
-    - Customer (Master Data)
-    - Manajemen Kamar
-    - Order / Penyewaan
-    - Pindah Kamar
-    - Perbaikan
-    - Fasilitas Umum
-    - Log Aktivitas
-    - Permintaan User
-- User (Penghuni)
+    - Room Types (Master Data)
+    - Customers (Master Data)
+    - Room Management
+    - Orders / Rentals
+    - Room Transfer
+    - Repairs
+    - Public Facilities
+    - Activity Logs
+    - User Requests
+- User (Tenant)
     - Dashboard
-    - Tagihan & Pembayaran
-    - Perbaikan
-    - Fasilitas Kos
-    - Profil Saya
-    - Layanan Pengajuan (Pindah / Checkout)
+    - Bills & Payments
+    - Repairs
+    - Boarding House Facilities
+    - My Profile
+    - Submission Services (Transfer / Checkout)
 
 ```
 ## TechStack yang Digunakan
@@ -41,7 +41,6 @@ KostHub merupakan sebuah sistem manajemen kamar kos modern berbasis web yang ber
 * **DBMS**: MySQL
 * **Host**: `localhost`
 * **Username**: `root`
-* **Password**: *(empty)*
 * **Database Name**: `kosmanager`
 
 ### Table Specification
