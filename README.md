@@ -27,6 +27,7 @@ KostHub merupakan sebuah sistem manajemen kamar kos modern berbasis web yang ber
     - Profil Saya
     - Layanan Pengajuan (Pindah / Checkout)
 
+```
 ## TechStack yang Digunakan
 * **Frontend**: HTML5, CSS3 (Custom styling, CSS Variables), Vanilla JavaScript (ES6+ API fetching, DOM manipulation).
 * **Icons**: Lucide Icons.
